@@ -1,24 +1,24 @@
-# Password Security Generator
+# 🔐 Password Security Generator
 
-A Python-based Password Security Generator that creates strong, random passwords and evaluates their security strength using multiple criteria such as length, uppercase letters, lowercase letters, numbers, special characters, and entropy.
+A Python-based Password Security Generator that creates strong, random passwords and evaluates their security strength using multiple criteria such as password length, uppercase letters, lowercase letters, numbers, special characters, and entropy.
 
 ---
 
-## Features
+## 📌 Features
 
 - Generate secure random passwords
-- Password strength checker
+- Password strength analysis
 - Entropy calculation
 - User-friendly command-line interface
 - Supports uppercase letters
 - Supports lowercase letters
 - Supports numbers
 - Supports special characters
-- Professional modular Python project
+- Modular Python project structure
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3
 - random
@@ -29,9 +29,9 @@ A Python-based Password Security Generator that creates strong, random passwords
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
-```
+```text
 Password-Security-Generator/
 │
 ├── main.py
@@ -45,15 +45,15 @@ Password-Security-Generator/
 
 ---
 
-## Installation
+## ⚙️ Installation
 
-1. Install Python 3.x
-2. Download or clone this repository.
+1. Install Python 3.x.
+2. Clone or download this repository.
 3. Open the project folder.
 
 ---
 
-## Running the Project
+## ▶️ Running the Project
 
 Run the following command:
 
@@ -63,9 +63,9 @@ python main.py
 
 ---
 
-## Example Menu
+## 💻 Example Menu
 
-```
+```text
 ============================================================
         PASSWORD SECURITY GENERATOR
 ============================================================
@@ -77,30 +77,31 @@ python main.py
 
 ---
 
-## Modules
+## 📄 Modules
 
-### main.py
-Controls the application and user interaction.
+### `main.py`
+Controls the application flow and user interaction.
 
-### password_generator.py
+### `password_generator.py`
 Generates secure passwords based on user-selected options.
 
-### strength_checker.py
-Analyzes password strength and calculates entropy.
+### `strength_checker.py`
+Analyzes password strength, calculates entropy, and provides security suggestions.
 
 ---
 
-## Future Enhancements
+## 🚀 Future Enhancements
 
 - Graphical User Interface (GUI)
 - Password history
 - Save generated passwords
-- Export passwords to a text file
+- Export passwords to a file
 - Dark mode interface
+- Password breach detection
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **Sahithi**
 
@@ -108,6 +109,7 @@ First Year Engineering Project
 
 ---
 
-## License
+## 📜 License
 
+This project is licensed under the MIT License.
 This project is licensed under the MIT License.
